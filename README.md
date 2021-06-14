@@ -13,8 +13,6 @@
 
 - 👨‍💻  &nbsp; All of my projects are available at [https://github.com/bartollo?tab=repositories](https://github.com/bartollo?tab=repositories)
 
-- 💬  &nbsp;Ask me about **Your problem and get a well organized solution**
-
 - 📫  &nbsp;How to reach me **luizbart@gmail.com**
 
 
