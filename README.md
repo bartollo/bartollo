@@ -1,12 +1,13 @@
 ### Hello 👋
 <h1 align="center">Hi 👋, I'm Luiz Bartolomeu (Bartollo)</h1>
 
-<h5 align="center">A passionate web/app developer who is playing with PHP, Laravel, React, React Native, Vue and more...</h5>
+<h5 align="center">A passionate web/app developer who is playing with PHP, Laravel, Vue and more...</h5>
+
 
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **React**, **Vue JS**, **Wordpress**
 
-- ⭆  &nbsp; I’m currently learning **NODE Js**, **DevOps**
+- ⭆  &nbsp; I’m currently learning **NODE Js**, **Angular**, **DevOps**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects**
 
