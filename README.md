@@ -10,7 +10,7 @@
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻  &nbsp; All of my projects are available at [https://github.com/bartollo?tab=repositories](https://github.com/ManiruzzamanAkash?tab=repositories)
+- 👨‍💻  &nbsp; All of my projects are available at [https://github.com/bartollo?tab=repositories](https://github.com/bartollo?tab=repositories)
 
 - 💬  &nbsp;Ask me about **Your problem and get a well organized solution**
 
@@ -36,4 +36,4 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"><a href="mailto:luizbart@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="ManiruzzamanAkash" height="40" width="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/luiz-bartolomeu/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ManiruzzamanAkash" height="40" width="40" /></a></p>
+<p align="left"><a href="mailto:luizbart@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="bartollo" height="40" width="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/luiz-bartolomeu/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="bartollo" height="40" width="40" /></a></p>
