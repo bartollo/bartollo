@@ -6,7 +6,7 @@
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **React**, **Vue JS**, **Wordpress**
 
-- ⭆  &nbsp; I’m currently learning **Typescript**, **GraphQL**, **GoLang**, **DevOps**
+- ⭆  &nbsp; I’m currently learning **NODE Js**, **DevOps**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects**
 
